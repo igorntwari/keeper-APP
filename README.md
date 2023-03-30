@@ -1,2 +1,2 @@
 # keeper-APP
-Created with CodeSandbox
+keeper project app that works as sticky notes
